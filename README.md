@@ -18,32 +18,32 @@ If you like this idea or have been benifited from it, please kindly **star this 
 ## Scrape RSS feeds of these journals (no paticular order)
 
 - AGU journals including _Geophys. Res. Lett._, _J. Geophys. Res. -Ocean_, etc.
-- _J. Phys. Oceanogr.
+- _J. Phys. Oceanogr._
 - Nature Publish Group journals including _Nature_, _Nat. Geosci._,_Nat. Comm._, _Nat. Clim. Change_, etc.
-- _Acta Oceanol. Sin.
-- _J. Mar. Sci.
-- _Prog. Oceanogr.
-- _Deep Sea Res.
-- _Cont. Shelf Res.
-- _Ocean Dynam.
-- _Dynam. Atmos. Oceans
-- _Front. Mar. Sci.
-- _J. Fluid Dynam.
-- _Ann. Rev. Mar. Sci.
-- _Ann. Rev. Fluid Dynam.
-- _J. Clim.
-- _J. Oceanogr.
-- _Tellus A
-- _Ocean Model.
-- _Ocean Sci.
-- _J. Atmos. Ocean. Tech.
-- _PlosOne: Oceanography
-- _Clim. Dynam.
-- _J. Oper. Oceanogr.
-- _AGU EOS
-- _ESSOAr
+- _Acta Oceanol. Sin._
+- _J. Mar. Sci._
+- _Prog. Oceanogr._
+- _Deep Sea Res._
+- _Cont. Shelf Res._
+- _Ocean Dynam._
+- _Dynam. Atmos. Oceans_
+- _Front. Mar. Sci._
+- _J. Fluid Dynam._
+- _Ann. Rev. Mar. Sci._
+- _Ann. Rev. Fluid Dynam._
+- _J. Clim._
+- _J. Oceanogr._
+- _Tellus A_
+- _Ocean Model._
+- _Ocean Sci._
+- _J. Atmos. Ocean. Tech._
+- _PlosOne: Oceanography_
+- _Clim. Dynam._
+- _J. Oper. Oceanogr._
+- _AGU EOS_
+- _ESSOAr_
 
-# Acknowledgement
+## Acknowledgement
 
 [Twitter](https://twitter.com) | [IFTTT](https://ifttt.com) | [Zapier](https://zapier.com)
 

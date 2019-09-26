@@ -53,9 +53,7 @@ Thanks for solidary and reliable services.
 
 I also maintain a [Twitter list](https://twitter.com/chouj/lists/oceanography) full of researchers / organizations / projects in the field of (Physical) Oceanography.
 
-### Support ME
-
-## 谢谢支持
+#### Support ME
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mesoscale)
 [![Donate](https://img.shields.io/badge/Donate-WeChat-brightgreen.svg)](https://github.com/chouj/donate-page/blob/master/simple/images/WeChatQR.jpg?raw=true)

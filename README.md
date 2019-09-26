@@ -1,8 +1,6 @@
 # [POPapers](https://twitter.com/geomatlab)
 ###### A twitter account to auto-share new papers in the field of (Physical) Oceanography
 
-<a class="twitter-timeline" href="https://twitter.com/geomatlab?ref_src=twsrc%5Etfw">Tweets by geomatlab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Introduction
 
 ![https://img.shields.io/badge/Powered%20by-RSS-orange.svg?style=plastic&logo=rss](https://img.shields.io/badge/Powered%20by-RSS-orange.svg?logo=rss)
@@ -16,7 +14,6 @@ If you like this idea or have been benifited from it, please kindly **star this 
 ## How to setup a similar one in your field
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s pretty easy to create your own as long as your preferred journals provide RSS feeds for recently-published papers. Then follow the instructions in this post [ <a href="https://t.co/3epPIhBdN3">https://t.co/3epPIhBdN3</a>] with a ready twitter account for auto-posting.</p>&mdash; POPapers (@geomatlab) <a href="https://twitter.com/geomatlab/status/1125692588302819329?ref_src=twsrc%5Etfw">May 7, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Scrape RSS feeds of these journals (no paticular order)
 
@@ -48,12 +45,10 @@ If you like this idea or have been benifited from it, please kindly **star this 
 
 # Acknowledgement
 
-Twitter(https://twitter.com) | [IFTTT](https://ifttt.com) | [Zapier](https://zapier.com)
+[Twitter](https://twitter.com) | [IFTTT](https://ifttt.com) | [Zapier](https://zapier.com)
 
 Thanks for solidary and reliable services.
 
 ## Else
 
-I also maintain a Twitter list full of researchers / organizations / projects in the field of (Physical) Oceanography:
-
-<a class="twitter-timeline" href="https://twitter.com/chouj/lists/oceanography?ref_src=twsrc%5Etfw">A Twitter List by chouj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+I also maintain a [Twitter list](https://twitter.com/chouj/lists/oceanography) full of researchers / organizations / projects in the field of (Physical) Oceanography.

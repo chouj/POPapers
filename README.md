@@ -44,6 +44,7 @@ If you like this idea or have been benifited from it, please kindly **star this 
 - _ESSOAr_
 - ASLO pubs. eg. _Limnol. Oceanogr._
 - _Oceanogr._
+- _Remote Sen._ Ocean Remote Sensing Section
 
 ## Acknowledgement
 

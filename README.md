@@ -42,6 +42,8 @@ If you like this idea or have been benifited from it, please kindly **star this 
 - _J. Oper. Oceanogr._
 - _AGU EOS_
 - _ESSOAr_
+- ASLO pubs. eg. _Limnol. Oceanogr._
+- _Oceanogr.
 
 ## Acknowledgement
 

@@ -5,6 +5,8 @@
 
 ![https://img.shields.io/badge/Powered%20by-RSS-orange.svg?style=plastic&logo=rss](https://img.shields.io/badge/Powered%20by-RSS-orange.svg?logo=rss)
 
+"**POPapers**" means papers pop out. ^_^
+
 The account was created on 6 Apr 2013, when I wanted to utilize the `RSS` feeds provided by my preferred journals to help myself keep an eye on research frontiers. Soon I found it might be useful to other researchers, so the idea emerged natually when one was aware of the automation / information flow services like [IFTTT](https://ifttt.com) and [Zapier](https://zapier.com). Currently, it has been followed by [500+ worldwide researchers](https://twitter.com/geomatlab/followers) in the fields of oceanography, atmospheric sciences or climate change.
 
 Actually, I have been harnessing useful information by using `RSS` technology since 2007. There is a category called "[About RSS](https://chouj.github.io/categories/rss%E7%9B%B8%E5%85%B3/)" on my blog. `RSS` is not dead apparently.

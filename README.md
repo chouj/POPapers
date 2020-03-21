@@ -1,6 +1,6 @@
 # [POPapers](https://twitter.com/geomatlab)
 
-[![](https://img.shields.io/badge/dynamic/json?label=Twitter%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dgeomatlab&color=1da1f2&logo=twitter&longCache=true&style=flat-square)](https://twitter.com/geomatlab)
+![](https://img.shields.io/badge/dynamic/json?label=Twitter%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dgeomatlab&color=1da1f2&logo=twitter&longCache=true&style=flat-square)
 
 ###### A twitter account to auto-share new papers in the field of (Physical) Oceanography
 
@@ -53,9 +53,11 @@ If you like this idea or have been benifited from it, please kindly **star this 
 
 ## Acknowledgement
 
-[Twitter](https://twitter.com) | [IFTTT](https://ifttt.com) | [Zapier](https://zapier.com)
+- [Twitter](https://twitter.com) | [IFTTT](https://ifttt.com) | [Zapier](https://zapier.com) | [Integromat](https://www.integromat.com/)
 
 Thanks for solidary and reliable services.
+
+- [SUBSTATS](https://substats.spencerwoo.com/)
 
 ## Else
 

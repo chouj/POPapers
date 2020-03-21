@@ -1,4 +1,7 @@
 # [POPapers](https://twitter.com/geomatlab)
+
+[![](https://img.shields.io/badge/dynamic/json?label=Twitter%20Followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtwitter%26queryKey%3Dgeomatlab&color=1da1f2&logo=twitter&longCache=true&style=flat-square)](https://twitter.com/geomatlab)
+
 ###### A twitter account to auto-share new papers in the field of (Physical) Oceanography
 
 ## Introduction

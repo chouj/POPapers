@@ -20,7 +20,7 @@ If you like this idea or have been benifited from it, please kindly **star this 
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">It&#39;s pretty easy to create your own as long as your preferred journals provide RSS feeds for recently-published papers. Then follow the instructions in this post [ <a href="https://t.co/3epPIhBdN3">https://t.co/3epPIhBdN3</a>] with a ready twitter account for auto-posting.</p>&mdash; POPapers (@geomatlab) <a href="https://twitter.com/geomatlab/status/1125692588302819329?ref_src=twsrc%5Etfw">May 7, 2019</a></blockquote>
 
-## Scrape RSS feeds of these journals (no paticular order)
+## Scrape RSS feeds of these journals (no particular order)
 
 - AGU journals including _Geophys. Res. Lett._, _J. Geophys. Res. -Ocean_, etc.
 - _J. Phys. Oceanogr._
